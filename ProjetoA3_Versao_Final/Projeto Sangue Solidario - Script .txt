@@ -1,0 +1,39 @@
+Projeto Sangue Solidario -> 
+
+Resumo projeto: 
+
+Um app que interliga doadores de sangue com hospitais cadastrados.
+Para realizar um agendamento é simples: crie um login ou entre na sua conta e verifique as unidades e horários disponíveis e então solicite seu agendamento.
+
+Principais funções do app: 
+
+Doador 
+
+a) Logar;
+b) Verificar seus dados e altera-los;
+c) Verificar hospitais participantes e horários disponíveis para doação;
+d) Agendar doação;
+e) Voltar tela e encerrar aplicação.
+
+Suporte
+
+a) Logar;
+b) Adicionar novo doador;
+c) excluir ou alterar agendamento;
+e) Voltar tela e encerrar aplicação.
+
+
+Banco de dados:
+
+Lista de usuário e login com seus respectivos acessos;
+Lista de agendamento contendo os horários disponíveis para cada hospital;
+Lista de hospitais;
+
+Telas:
+
+Usuário doador:
+
+1 - Login para validação do usuário (time suporte) ou cliente. 
+2 - Pagina inicial com botões de: voltar, acessar dados, agendar doação.
+3 - Meus dados contendo xxxxxxxxxxxxxx.
+4 - Agendar doação contendo botão para selecionar unidade hospitalar e baseado na escola um campo tabela irá atualizar com as inf de dias disponíveis...
